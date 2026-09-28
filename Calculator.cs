@@ -6,4 +6,9 @@ public static class Calculator
     {
         return firstNumber + secondNumber;
     }
+
+    public static decimal Multiply(decimal firstNumber, decimal secondNumber)
+    {
+        return firstNumber * secondNumber;
+    }
 }
