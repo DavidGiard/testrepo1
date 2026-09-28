@@ -4,7 +4,7 @@ using TestRepo1;
 decimal firstNumber = ReadNumber("Enter the first number: ");
 decimal secondNumber = ReadNumber("Enter the second number: ");
 
-Console.WriteLine($"The sum is: {Calculator.Add(firstNumber, secondNumber)}");
+Console.WriteLine($"The sum is: {AdditionCalculator.Add(firstNumber, secondNumber)}");
 
 static decimal ReadNumber(string prompt)
 {

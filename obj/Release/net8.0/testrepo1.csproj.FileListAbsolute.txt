@@ -1,0 +1,15 @@
+C:\test\testrepo1\testrepo1\bin\Release\net8.0\testrepo1.exe
+C:\test\testrepo1\testrepo1\bin\Release\net8.0\testrepo1.deps.json
+C:\test\testrepo1\testrepo1\bin\Release\net8.0\testrepo1.runtimeconfig.json
+C:\test\testrepo1\testrepo1\bin\Release\net8.0\testrepo1.dll
+C:\test\testrepo1\testrepo1\bin\Release\net8.0\testrepo1.pdb
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\testrepo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\testrepo1.AssemblyInfoInputs.cache
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\testrepo1.AssemblyInfo.cs
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\testrepo1.csproj.CoreCompileInputs.cache
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\testrepo1.sourcelink.json
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\testrepo1.dll
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\refint\testrepo1.dll
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\testrepo1.pdb
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\testrepo1.genruntimeconfig.cache
+C:\test\testrepo1\testrepo1\obj\Release\net8.0\ref\testrepo1.dll
